@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ayagm\\source\\repos\\product\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B60138BE-D055-4AD9-83C9-2D720B1DA5C6}|product\\product.csproj|c:\\users\\ayagm\\source\\repos\\product\\product\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B60138BE-D055-4AD9-83C9-2D720B1DA5C6}|product\\product.csproj|solutionrelative:product\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B60138BE-D055-4AD9-83C9-2D720B1DA5C6}|product\\product.csproj|c:\\users\\ayagm\\source\\repos\\product\\product\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B60138BE-D055-4AD9-83C9-2D720B1DA5C6}|product\\product.csproj|solutionrelative:product\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B60138BE-D055-4AD9-83C9-2D720B1DA5C6}|product\\product.csproj|c:\\users\\ayagm\\source\\repos\\product\\product\\validators\\productvalidators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B60138BE-D055-4AD9-83C9-2D720B1DA5C6}|product\\product.csproj|solutionrelative:product\\validators\\productvalidators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ayagm\\source\\repos\\product\\product\\Program.cs",
+              "RelativeDocumentMoniker": "product\\Program.cs",
+              "ToolTip": "C:\\Users\\ayagm\\source\\repos\\product\\product\\Program.cs*",
+              "RelativeToolTip": "product\\Program.cs*",
+              "ViewState": "AgIAABYAAAAAAAAAAAAswCsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T18:11:59.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\ayagm\\source\\repos\\product\\product\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "product\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\ayagm\\source\\repos\\product\\product\\Controllers\\ProductsController.cs*",
+              "RelativeToolTip": "product\\Controllers\\ProductsController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T18:08:22.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductValidators.cs",
+              "DocumentMoniker": "C:\\Users\\ayagm\\source\\repos\\product\\product\\Validators\\ProductValidators.cs",
+              "RelativeDocumentMoniker": "product\\Validators\\ProductValidators.cs",
+              "ToolTip": "C:\\Users\\ayagm\\source\\repos\\product\\product\\Validators\\ProductValidators.cs",
+              "RelativeToolTip": "product\\Validators\\ProductValidators.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T18:08:13.53Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
